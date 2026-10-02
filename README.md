@@ -1,2 +1,3 @@
-# dearthing-sales
-Dearthing co-purchase sales status
+# 디어싱 공동구매 판매현황
+
+공동구매 파트너 전용 판매현황 페이지입니다. 각 페이지는 비밀번호로 암호화되어 있습니다.
